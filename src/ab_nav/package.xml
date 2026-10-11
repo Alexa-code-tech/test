@@ -7,7 +7,7 @@
     in Gazebo Classic.
   </description>
 
-  <maintainer email="sasha@example.com">Sasha</maintainer>
+  <maintainer email="alya.fedora@list.ru">Sasha</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_python</buildtool_depend>

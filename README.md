@@ -22,7 +22,7 @@ sudo apt update && sudo apt install -y \
 ## Запуск (одной командой)
 
 ```bash
-git clone <URL репозитория> ab_ws && cd ab_ws
+git clone https://github.com/Alexa-code-tech/test.git ab_ws && cd ab_ws
 ./run.sh
 ```
 

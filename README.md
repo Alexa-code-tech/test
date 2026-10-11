@@ -2,9 +2,9 @@
 
 Робот в симуляторе Gazebo автономно проезжает из точки A в точку B с объездом статических препятствий. Маршрут задаётся GPS-waypoints (WGS84). Используются лидар, depth-камера (аналог Orbbec Astra) и GPS.
 
-<h2>Видео демонстрации</h2>
+- Видео демонстрации:
+- https://drive.google.com/file/d/1NW_Fn9GcKWQCvmsy0sWSTR8_Rl4Pb-Po/view?usp=sharing
 
-<video src="https://github.com/user-attachments/assets/94254312-a050-4fce-8cdb-d4f0539bde52" controls width="800"></video>
 ## Окружение
 
 - Ubuntu 22.04, **ROS 2 Humble**, **Gazebo Classic 11**

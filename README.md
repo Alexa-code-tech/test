@@ -3,7 +3,7 @@
 Робот в симуляторе Gazebo автономно проезжает из точки A в точку B с объездом статических препятствий. Маршрут задаётся GPS-waypoints (WGS84). Используются лидар, depth-камера (аналог Orbbec Astra) и GPS.
 
 - Видео демонстрации:
-- [test_video_rviz_gazebo.webm](https://github.com/user-attachments/assets/a86c46f7-660a-4c42-8a79-c76ff4b1853d)
+https://github.com/Alexa-code-tech/test/issues/1#issue-5803756798
 
 
 ## Окружение

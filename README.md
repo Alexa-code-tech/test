@@ -32,6 +32,8 @@ git clone <URL репозитория> ab_ws && cd ab_ws
 
 Параметры: `./run.sh gui:=false` (без окна Gazebo, легче для слабых машин), `rviz:=false`, `mission:=false` (без автомиссии).
 
+Примечание - окружение называется ab_ws 
+
 ## Структура
 
 ```

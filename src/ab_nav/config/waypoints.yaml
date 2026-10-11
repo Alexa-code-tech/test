@@ -1,0 +1,3 @@
+waypoints:
+  - {name: WP1, lat: 55.7500180, lon: 37.6001035}
+  - {name: B,   lat: 55.7500000, lon: 37.6001911}
